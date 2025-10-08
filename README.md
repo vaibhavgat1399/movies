@@ -138,13 +138,14 @@ python3 bot.py
 
 
 ## **Thanks to** 
- - <b>Thanks To [Vaibhav(https://t.me/VaibhavGat99) To Modify And Add Amazing Feature In The Repo
- - Thanks To [Me(https://github.com/) For Base Repo
+ - <b>Thanks To [Vaibhav](https://t.me/VaibhavGat99) To Modify And Add Amazing Feature In The Repo
+ - Thanks To [Me](https://github.com/) For Base Repo
  - Thanks To [Ꭺɴᴏɴʏᴍᴏᴜꜱ](https://t.me/) To refresh Future Code and Update premium future</b>
- - Thanks To [Me(https://t.me/) Your ideas have been a huge help in improving this project. Thanks for your valuable input!
- - Thanks To [ɪᴛ'ꜱ ʟᴜғғʏ](https://t.me/CoderluffyTG) For fixing key errors and making the bot better. Your help has been truly appreciated!
+ - Thanks To [Me](https://t.me/VaibhavGat) Your ideas have been a huge help in improving this project. Thanks for your valuable input!
+ - Thanks To [ɪᴛ'ꜱ ʟᴜғғʏ](https://t.me/VaibhavGat) For fixing key errors and making the bot better. Your help has been truly appreciated!
  - Thanks To All Everyone In This Journey
  <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
+
 
 
 
