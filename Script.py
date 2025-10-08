@@ -113,7 +113,8 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/Vegapick">VegaMovies</a>」</b>"""
+    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥\n\n𝖩𝗈𝗂𝗇➥ 「......」</b>"""
+    
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
@@ -368,4 +369,5 @@ developer : Vaibhav
 ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 </blockquote>
 Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/VaibhaGat99">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/VaibhavGat99">ᴀᴅᴍɪɴ</a></b>"""
+
 
